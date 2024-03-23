@@ -1,0 +1,37 @@
+.headerOuterdiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.header{
+    width: 72rem;
+    height: 5rem;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content:space-between;
+    background-color: bisque;
+    /* background-color: black;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20rem;
+    padding: 5px;
+    border-radius: 5px; */
+}
+
+.header a{
+text-decoration: none;
+color: #fff;
+margin-left: 50px;
+font-size: 40px;
+font-weight: 700;
+
+}
+
+.header a:hover{
+    color: orange;
+}

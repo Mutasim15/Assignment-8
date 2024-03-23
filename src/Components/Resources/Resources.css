@@ -1,0 +1,45 @@
+.resources_container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 1rem;
+}
+
+.programming_content{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding-top: 60px;
+}
+.content_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    border: 2px solid black;
+}
+.blogger_details{
+    display: flex;
+    gap: 20px;
+    height: 80px;
+    align-items: center;
+    justify-content:center ;
+}
+.date{
+color: rgba(17, 17, 17, 0.60);
+font-family: "Exo 2";
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+
+}
+.reading_time{
+color: rgba(17, 17, 17, 0.60);
+text-align: right;
+font-family: "Exo 2";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 0px;
+
+}

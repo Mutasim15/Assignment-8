@@ -1,0 +1,41 @@
+[
+        {
+            "id": "1",
+            "coverUrl": "./images/2.png",
+            "profile": "./images/profile 1.png",
+            "contentTopic": "Vanila CSS",
+            "name":"Fuwad",
+           
+            "reading":"08"
+          },
+          {
+            "id": "2",
+            "coverUrl": "./images/1.jpg",
+            "profile": "./images/profile 2.png",
+            "age": 27,
+            "contentTopic": "JavaScript",
+            "name":"Mutasim",
+           
+            "reading":"05"
+            
+          },
+           {
+            "id": "3",
+            "coverUrl": "./images/3.png",
+            "profile": "./images/profile 3.png",
+            "contentTopic": "React",
+            "name":"Builder",
+           
+            "reading":"07"
+          },
+          {
+            "id": "4",
+            "coverUrl": "./images/4.jpg",
+            "profile": "./images/profile 4.png",
+            "age": 27,
+            "contentTopic": "Vivian Norris",
+            "name":"Rafsan",
+           
+            "reading":"10"
+          }
+    ]
